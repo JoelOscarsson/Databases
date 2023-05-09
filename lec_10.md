@@ -1,0 +1,16 @@
+- # [[IT-Högskolan/course/databases]] [[lecture]] [[10]] - [[Design]] and [[Administration]]
+  #databases
+	- what is synchronous programming #card
+		- wait until statement is done before continuing
+	- what is asynchronous programming #card
+		- run multiple statements at once
+	- upside of using python for writing SQL code when using different SQL types #card
+		- python code will be translated to fit whatever SQL type is used
+	- what does DDL mean #card
+		- data definition language
+	- what is DDL #card
+		- create object
+	- what does DML mean #card
+		- data manipulation language
+	- what is DML #card
+		- change object
